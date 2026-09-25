@@ -19,6 +19,8 @@
 ## Examples
 
 - [MQTTs with client certificate](examples/mqtts-client-cert)
+- [MQTTs with client certificate from environment variables](examples/mqtts-client-cert-env)
+- [MQTTs with client certificate and crypto.Signer (hardware keys, KMS)](examples/mqtts-client-cert-signer)
 - [WebSockets with presigned URL](examples/wss-presign-url)
 
 ## Reference
